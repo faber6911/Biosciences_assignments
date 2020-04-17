@@ -14,7 +14,10 @@
 
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
-Need to add assignments description.
+<ul>
+  <li><a href="https://github.com/faber6911/Biosciences_assignments/tree/master/ASSIGNMENT%231">Assignment #1</a>: download the given list of .fasta files from <a href="https://www.ncbi.nlm.nih.gov/">NCBI</a>, concat them and calculate a ParsimonyTree and a DistanceTree based on K2P distance using <a href="http://doua.prabi.fr/software/seaview">Seaview</a>.</li>
+  <li><a href="https://github.com/faber6911/Biosciences_assignments/tree/master/ASSIGNMENT%232">Assignment #2</a>: complete the given assignment based on recontruct the gene sequence from the signals generated using Sanger method in DNA sequencing. As second task use the API <a href="https://biopython.org/DIST/docs/api/Bio.Entrez-module.html">Entrez</a> provided by <a href="https://biopython.org/">Biopython</a> in order to automate the data collection operation in Assignment #1.</li>
+</ul>
 
 <a name="aboutme"></a>
 ## &#9741; &nbsp; About me
