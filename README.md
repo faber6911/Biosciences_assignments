@@ -3,7 +3,7 @@
 </p>
 </div>
 
-<h1 align = "center">Biosciences assignments</h1>
+<h1 align = "center">Biosciences assignments <img src="https://github.com/faber6911/Biosciences_assignments/raw/master/imgs/dna.png" width=2.5%></h1>
 <h6 align = "center">Just a repository for my Data Science LAB in Biosciences course's assignments</h6>
 
 <p align="center">
@@ -16,6 +16,7 @@
 ## &#9741; &nbsp; Overview
 Need to add assignments description.
 
+<a name="aboutme"></a>
 ## &#9741; &nbsp; About me
 
 &#8860; &nbsp; **Fabrizio D'Intinosante**
