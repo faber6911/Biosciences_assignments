@@ -1,0 +1,57 @@
+LOCUS       KC750830                 386 bp    DNA     linear   PRI 29-APR-2013
+DEFINITION  Homo sapiens cytochrome oxidase subunit I (COI) gene, partial cds;
+            mitochondrial.
+ACCESSION   KC750830
+VERSION     KC750830.1
+KEYWORDS    .
+SOURCE      mitochondrion Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 386)
+  AUTHORS   Campbell,A.M., Rao,N.T. and Murphy,S.O.
+  TITLE     A Robust Protocol for Environmental DNA Species Detection Using
+            Burmese Pythons
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 386)
+  AUTHORS   Campbell,A.M., Rao,N.T. and Murphy,S.O.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-MAR-2013) Biology Department, Davidson College, Box
+            7118, Davidson, NC 28035, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..386
+                     /organism="Homo sapiens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="hair"
+                     /db_xref="taxon:9606"
+                     /country="USA"
+                     /collected_by="M. Campbell"
+                     /PCR_primers="fwd_name: coi_foward, fwd_seq:
+                     cgmataaayaacataagcttctgact, rev_name: coi_reverse,
+                     rev_seq: ggrtgmccraaraaycaraata"
+     gene            <1..>386
+                     /gene="COI"
+     CDS             <1..>386
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AGK29585.1"
+                     /translation="LLLLASAMVEAGAGTGWTVYPPLAGNYSHPGASVDLTIFSLHLA
+                     GVSSILGAINFITTIINMKPPAMTQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLT
+                     DRNLNTTFFDPAGGGDPILYQHLFWF"
+ORIGIN      
+        1 ctactcctgc tcgcatctgc tatagtggag gccggagcag gaacaggttg aacagtctac
+       61 cctcctttag cagggaacta ctcccaccct ggagcctccg tagacctaac catcttctcc
+      121 ttacacctag caggtgtctc ctctatctta ggggccatca atttcatcac aacaattatc
+      181 aatataaaac cccctgccat aacccaatac caaacgcccc tcttcgtctg atccgtccta
+      241 atcacagcag tcctacttct cctatctctc ccagtcctag ctgctggcat cactatacta
+      301 ctaacagacc gcaacctcaa caccaccttc ttcgaccccg ccggaggagg agaccccatt
+      361 ctataccaac acctattctg attttt
+//
+
